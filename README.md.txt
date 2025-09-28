@@ -1,6 +1,6 @@
 # Weather Comparison Project
 
-This project compares rainfall data in **Seattle, St. Louis, and Mumbai** from 2018 to 2022.  
+This project compares rainfall data in **Seattle, St. Louis, and Mumbai**  
 The dataset includes daily precipitation totals for Seattle and St. Louis, and yearly totals for Mumbai.  
 We clean, visualize, and analyze the data to understand rainfall patterns across different regions.
 
