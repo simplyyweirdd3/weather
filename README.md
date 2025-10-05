@@ -9,6 +9,17 @@ We clean, visualize, and analyze the data to understand rainfall patterns across
 - `data/stl_rain.csv` — St. Louis precipitation (source: class GitHub)
 - `data/new_orleans.csv` — New Orleans precipitation (source: class GitHub)
 
+## Data Sources
+- Seattle data: [DATA 5100 GitHub Repository – Seattle Rain Data](https://github.com/bfischer/data5100-weather)  
+- New Orleans data: [NOAA Climate Data Online (CDO) – New Orleans Station (USW00012916)](https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00012916)
+
+## Data Analysis
+
+The analysis was performed in `Code/Weather_Data.ipynb`.  
+The clean dataset created during the process is saved as `Data/clean_precipitation_sea_no.csv`.  
+The main visualisation (`Reports/annual_totals_sea_no_barchart.png`) compares yearly precipitation totals between Seattle and New Orleans from 2018–2022.
+
+
 ## Commands Used
 # Step 1: Create project folder and subfolders
 mkdir weather
